@@ -80,4 +80,3 @@ ___
 - Computer Parts: CPU, GPU, Motherboard, Memory, Storage, Cases, Display, Keyboard, and Mouse
 
 Then print out the outputs!
->>>>>>> First Commit
